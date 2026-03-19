@@ -1,6 +1,4 @@
 # Qilin-Astro-Pier
 Astro pier for telescope mounts using a reverse-folding-leg design
 
-License​
-This hardware design is licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal
-
+The design files of this project are licensed under the CERN OHL v1.2. The repository's license badge (GPL-3.0) is displayed for platform compatibility only. The actual governing license is as specified in the LICENSEfile.
